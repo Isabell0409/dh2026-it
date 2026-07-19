@@ -10,7 +10,7 @@ The repository contains workshop materials and sample files for the DH2026 works
 * Access the [Dynamic Table of Contexts Commons](https://dtoc.leaf-vre.org/)
 * Access the [LEAF-VRE site](https://www.leaf-vre.org/)
 
-The working text included herein is Canto IV from Dante's _Inferno_. The text is offered in English, French, Italian, Japanese, Korean, and Spanish.
+The sample text for our exercises included herein is Canto IV from Dante's _Inferno_. The text is offered in English, French, German, Italian, Japanese, Korean, and Spanish.
 
 ## Questions? 
 Communicate with the LEAF team:
