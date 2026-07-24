@@ -15,5 +15,6 @@ The sample text for our exercises included herein is Canto IV from Dante's _Infe
 ## Questions? 
 Communicate with the LEAF team:
 * [Slack](https://leaf-vre.slack.com)
+* [Submit Bugs / Feature Requests](https://gitlab.com/calincs/cwrc/leaf-writer/leaf-writer/-/work_items)
 
 LEAF Commons tools are licensed under the [GNU Affero General Public License v3.0](https://gitlab.com/calincs/cwrc/leaf-writer/leaf-writer/-/blob/main/LICENSE)
