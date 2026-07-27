@@ -46,8 +46,18 @@
                Literature' at Newcastle University. He is also currently Chair of the TEI
                Consortium's Board of Directors.</note>
          </person>
+		  
+		  <person xml:id="person-IT001">
+            <!-- You can provide as much or as little information about an entity as you want. Here is some information about James. -->
+            <persName>Isabell Trilling</persName>
+            <affiliation ref="#org-NU01">Humboldt-Universität zu Berlin</affiliation>
+            <faith>None</faith>
+            <socecStatus>Variable</socecStatus>
+            <nationality>German</nationality>
+         </person>
 
       </listPerson>
+	   
 
       <!-- Place entities are stored in a <listPlace> element -->
       <listPlace>
